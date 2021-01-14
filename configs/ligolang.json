@@ -1,8 +1,8 @@
 {
   "index_name": "ligolang",
   "start_urls": [
-    "https://ligolang.org/docs/",
-    "https://ligolang.org/docs/setup/installation/"
+    "https://ligolang.org/docs/intro/introduction",
+    "https://ligolang.org/docs/intro/installation"
   ],
   "sitemap_urls": [
     "https://ligolang.org/sitemap.xml"
